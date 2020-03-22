@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{446BCAAC-A484-3034-8DA2-178313B2968A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MovingPlatform.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="37" Column="1" />
+      <File FileName="Assets/DissapearPlatform.cs" />
+      <File FileName="Assets/DestroyPlatform.cs" />
+      <File FileName="Assets/MovingPlatform.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e137c07b-3467-426f-b5a0-ea0ee1c325ed" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
